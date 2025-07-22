@@ -31,14 +31,14 @@ This is a Python-based console application for managing student records using a 
 
 ## 📁 File Structure
 
-.
+```
+Student Information System using Binary Search Treet/
 ├── student.py         # Student class with to_dict() and from_dict() methods
 ├── BST.py             # BST class with all tree operations (insert, search, delete, etc.)
 ├── main.py            # Main application logic with menu system
 ├── student.json       # Automatically generated file to persist student data
 └── README.md          # Project documentation
-
----
+```
 
 ## 🚀 How to Run
 
